@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+![STEM](https://www.nsf.gov/news/mmg/media/images/shutterstock_497153830_f.jpg)
 
-You can use the [editor on GitHub](https://github.com/ashishu007/learn-stem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Learn-STEM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can learn tricky subjects like Maths & Science very easily here.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Team
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Mrs. Mahuya Banerjee
+2. Dr. Yatin Suri
+3. Mr. Vimal Anand Baghel
+4. Mr. Ashish Upadhyay
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Classes
 
-### Jekyll Themes
+We offer classes free of charge, once a week.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashishu007/learn-stem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Schedule
 
-### Support or Contact
+1. Maths: Saturday 6-7 PM GMT
+2. Physics: Sunday 6-7 PM GMT
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Joining
+
+Join the class by [clicking this link](https://github.com/ashishu007/learn-stem).
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
