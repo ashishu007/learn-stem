@@ -1,5 +1,7 @@
 ![STEM](https://www.nsf.gov/news/mmg/media/images/shutterstock_497153830_f.jpg)
 
+<img src="https://www.nsf.gov/news/mmg/media/images/shutterstock_497153830_f.jpg" alt="Paris" class="center">
+
 ## Welcome to Learn-STEM
 
 You can learn tricky subjects like Maths & Science very easily here.
